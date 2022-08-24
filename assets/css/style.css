@@ -30,6 +30,7 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+    width:100%;
 }
 
 nav ul {
@@ -67,6 +68,7 @@ nav a:hover {
     display: inline-block;
     background-color: white;
     border: 5px solid green;
+    text-align:center;
     border-radius: 5px;
     color: darkred;
     font-size: 2em;
